@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [LINK](https://github.com/amrajat/nft-preview-card-component)
-- Live Site URL: [LIVE](https://amrajat.github.com/amrajat/nft-preview-card-component)
+- Live Site URL: [LIVE](https://amrajat.github.com/nft-preview-card-component)
 
 ## My process
 
